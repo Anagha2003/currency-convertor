@@ -1,0 +1,27 @@
+{
+  "name": "currency-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anagha2003/currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anagha Kashyap",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Anagha2003/currency-convertor/issues"
+  },
+  "homepage": "https://github.com/Anagha2003/currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
